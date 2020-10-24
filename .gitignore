@@ -2,3 +2,6 @@
 /.build
 /Packages
 /*.xcodeproj
+*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/
+.swiftpm
